@@ -28,6 +28,7 @@ function showdeck(){
         document.getElementById("deck").innethtml = deckhtml;
     }
 }
+
 /*
 function showdeck(deck, i){ //prints card at position 'i'
    let x, card = "";
